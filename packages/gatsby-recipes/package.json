@@ -51,7 +51,7 @@
     "graphql-compose": "^6.3.8",
     "graphql-subscriptions": "^1.1.0",
     "graphql-type-json": "^0.3.2",
-    "hicat": "^0.7.0",
+    "hicat": "^0.8.0",
     "html-tag-names": "^1.1.5",
     "ink-box": "^1.0.0",
     "is-binary-path": "^2.1.0",
