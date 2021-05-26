@@ -136,7 +136,7 @@
     "signal-exit": "^3.0.3",
     "slugify": "^1.4.4",
     "socket.io": "^2.3.0",
-    "socket.io-client": "2.3.0",
+    "socket.io-client": "2.4.0",
     "st": "^2.0.0",
     "stack-trace": "^0.0.10",
     "string-similarity": "^1.2.2",
