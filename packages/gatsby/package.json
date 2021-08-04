@@ -51,7 +51,7 @@
     "copyfiles": "^2.3.0",
     "core-js": "^3.6.5",
     "cors": "^2.8.5",
-    "css-loader": "^1.0.1",
+    "css-loader": "^2.0.0",
     "date-fns": "^2.14.0",
     "debug": "^3.2.6",
     "del": "^5.1.0",
