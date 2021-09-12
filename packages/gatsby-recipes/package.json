@@ -78,7 +78,7 @@
     "resolve-from": "^5.0.0",
     "semver": "^7.3.2",
     "single-trailing-newline": "^1.0.0",
-    "strip-ansi": "^6.0.0",
+    "strip-ansi": "^7.0.0",
     "style-to-object": "^0.3.0",
     "subscriptions-transport-ws": "^0.9.16",
     "svg-tag-names": "^2.0.1",
