@@ -2,7 +2,7 @@
   "name": "gatsby-cli-tests",
   "version": "1.0.0",
   "dependencies": {
-    "strip-ansi": "^6.0.0"
+    "strip-ansi": "^7.0.0"
   },
   "license": "MIT",
   "scripts": {
