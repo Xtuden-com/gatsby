@@ -31,7 +31,7 @@
     "better-queue": "^3.8.10",
     "chokidar": "^3.4.2",
     "concurrently": "^5.0.0",
-    "contentful-management": "^5.26.3",
+    "contentful-management": "^6.3.1",
     "cors": "^2.8.5",
     "cross-fetch": "^3.0.6",
     "debug": "^4.1.1",
