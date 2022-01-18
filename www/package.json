@@ -71,7 +71,7 @@
     "gatsby-transformer-sharp": "^2.5.13",
     "gatsby-transformer-yaml": "^2.4.10",
     "get-package-json-from-github": "^1.2.1",
-    "graphql-request": "1.8.2",
+    "graphql-request": "2.0.0",
     "hex-rgb": "^4.1.0",
     "hex2rgba": "^0.0.1",
     "js-yaml": "^3.14.0",
