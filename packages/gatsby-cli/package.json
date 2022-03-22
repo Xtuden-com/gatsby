@@ -24,7 +24,7 @@
     "fs-exists-cached": "^1.0.0",
     "fs-extra": "^8.1.0",
     "gatsby-core-utils": "^1.3.23",
-    "gatsby-recipes": "^0.2.33",
+    "gatsby-recipes": "^0.8.0",
     "gatsby-telemetry": "^1.3.38",
     "hosted-git-info": "^3.0.6",
     "ink": "^2.7.1",
