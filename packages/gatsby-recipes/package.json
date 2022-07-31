@@ -61,7 +61,7 @@
     "lodash": "^4.17.20",
     "mitt": "^1.2.0",
     "mkdirp": "^0.5.1",
-    "node-fetch": "^2.5.0",
+    "node-fetch": "^3.2.10",
     "normalize.css": "^8.0.1",
     "pkg-dir": "^4.2.0",
     "prettier": "^2.0.5",
