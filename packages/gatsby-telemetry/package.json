@@ -13,7 +13,7 @@
     "@turist/time": "^0.0.1",
     "async-retry-ng": "^2.0.1",
     "boxen": "^4.2.0",
-    "configstore": "^5.0.1",
+    "configstore": "^6.0.0",
     "envinfo": "^7.7.3",
     "fs-extra": "^8.1.0",
     "gatsby-core-utils": "^1.3.23",
