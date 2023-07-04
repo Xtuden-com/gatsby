@@ -9,7 +9,7 @@
     "@emotion/styled": "^10.0.27",
     "@jamo/graphql-request": "2.0.3",
     "@loadable/component": "^5.13.1",
-    "@mdx-js/mdx": "^1.6.16",
+    "@mdx-js/mdx": "^2.0.0",
     "@reach/skip-nav": "^0.6.2",
     "@styled-system/prop-types": "^5.1.5",
     "@styled-system/should-forward-prop": "^5.1.5",
